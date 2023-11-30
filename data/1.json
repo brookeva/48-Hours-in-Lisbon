@@ -1,0 +1,254 @@
+{
+  "type": "FeatureCollection",
+  "bounds": [
+    [
+      38.69559906940905, -9.230099411668961
+    ],
+    [
+      38.79611101619908, -9.089941635258585
+    ]
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Stop": "Tapisco",
+        "Stop Type": "Restaurant"
+        
+      },
+      "geometry": {
+        "coordinates": [
+          -9.146554542327749,
+          38.715845814373296
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Stop": "Bonjardim",
+        "Stop Type": "Restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.140534999999602,
+          38.7159998143822
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Stop": "Ginjinha Sem Rival",
+        "Stop Type": "Bar"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.139593271162795,
+          38.715096442988
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Stop": "Clube de Journalistas",
+        "Stop Type": "Restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.156816542329466,
+          38.71437744286234
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Stop": "Senhor Uva",
+        "Stop Type": "Restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.156827271165156,
+          38.71439418571251
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Stop": "Neighborhood",
+        "Stop Type": "Café"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.150855271163095,
+          38.70885706982108
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Stop": "Manteigaria",
+        "Stop Type": "Restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.144967042328858,
+          38.70887669775988
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Stop": "Taberna in Bairro Do Avillez",
+        "Stop Type": "Restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.142376542328464,
+          38.712280442494375
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Stop": "Taberna Sal Grosso",
+        "Stop Type": "Restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.124431542328466,
+          38.71363207121979
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Stop": "Prado",
+        "Stop Type": "Restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.134870000000916,
+          38.710491070299355
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Stop": "Monkey Mash",
+        "Stop Type": "Restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.144783542329037,
+          38.718234814512925
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Stop": "Red Frog",
+        "Stop Type": "Bar"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.145810271162617,
+          38.71958418540754
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Stop": "The Folks",
+        "Stop Type": "Coffee Shop"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.138258457671668,
+          38.71096918591152
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Stop": "O Velho Eurico",
+        "Stop Type": "Restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.101800542327567,
+          38.74282618404561
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Stop": "Omakase Ri"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.160935542328275,
+          38.70697155844192
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Stop": "MUSA Craft Beer",
+        "Stop Type": "Craft Beer"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.101577271163194,
+          38.7448999196302
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Stop": "Tricky's",
+        "Stop Type": "Bar"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.149452803553682, 38.70889248205669
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
